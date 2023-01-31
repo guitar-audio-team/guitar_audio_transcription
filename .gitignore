@@ -8,3 +8,4 @@ raw_data/
 .env
 raw_data/
 guitar_audio_transcription/data/
+.python-version
