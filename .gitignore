@@ -7,4 +7,5 @@ raw_data/
 **/__pycache__/
 .env
 raw_data/
+.python-version
 guitar_audio_transcription/data/
